@@ -69,6 +69,13 @@ These are the lists of things that were manually added by us:
 * Manually Selected Git as a Plugin
 
 ---
+## Authors and acknowledgment  
+* <b> Siddhant Shrestha </b> - Project Leader & Backend Developer, Database Designer & Administrator <br>
+* <b> Edan Wong </b> - Database Designer & Administrator <br>
+* <b> Alfred Rich </b> - Frontend Developer & UI/UX Designer <br>
+* <b> Benjamin Nneji </b> - Tester
+
+---
 ## Roadmap
 Enhancing the security of the database, improving the visual appeal of the website, and optimizing its functionalities for greater efficiency are key priorities for ensuring a robust, user-friendly, and high-performing system. <br>
 Strengthening security measures will safeguard sensitive data, while a modern and aesthetically pleasing design will enhance user experience. Additionally, refining functionalities will improve overall system performance, making interactions smoother and more seamless for users. 
