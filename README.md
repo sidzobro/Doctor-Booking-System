@@ -67,13 +67,7 @@ These are the lists of things that were manually added by us:
 * We also had to manually install Maven which we did from the website itself, we then followed a set of instructions to make some of the errors that we had work. But it was mainly the import issues which it fixed immediately.
 * MYSQL WorkBench for Database Management.
 * Manually Selected Git as a Plugin
-
-## Support
-For any enquiries, Email : <br>
-* ss2765@kent.ac.uk <br>
-* cw743@kent.ac.uk  <br>
-* bn221@kent.ac.uk  <br>
-* ar841@kent.ac.uk  <br>
+  
 ---
 ## Roadmap
 Enhancing the security of the database, improving the visual appeal of the website, and optimizing its functionalities for greater efficiency are key priorities for ensuring a robust, user-friendly, and high-performing system. <br>
